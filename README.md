@@ -1,5 +1,9 @@
 # vagrant-haiku-gas: a Vagrant box with Haiku OS + GNU assembler
 
+# DISCLAIMER
+
+Currently broken, awaiting research into relevant C calling convention, linker details, and so on for Haiku assembler applications.
+
 # VAGRANT CLOUD
 
 https://app.vagrantup.com/mcandre/boxes/vagrant-haiku-gas-amd64
